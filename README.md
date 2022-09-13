@@ -6,7 +6,7 @@ Please you can have a look just here: https://mpgc.github.io/Portfolio/
 
 ## Built with 🛠️
 
-I have use several tools such as:
+I have used several tools such as:
 
 * [HTML / CSS](http://www.dropwizard.io/1.0.2/docs/) - Used to develope the web layout.
 * [JavaScript](https://maven.apache.org/) - Used to develope funtionality.
